@@ -5,4 +5,4 @@ profile: "snowflake"
 
 models:
   widget_shop:
-    +materialized: table
+    +materialized: view
